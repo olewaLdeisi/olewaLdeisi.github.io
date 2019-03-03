@@ -6,9 +6,9 @@
 ## 二、 配置Pycharm的Git环境
 &emsp;1.打开Pycharm，选择菜单栏的`File -> Settings ->
 Version Control -> Github` :  
-![1_File_Settings](./../img/Pycharm之Git系列/imgs/1_File_Settings.png)  
+![1_File_Settings](https://github.com/olewaLdeisi/olewaLdeisi.github.io/blob/master/img/Pycharm之Git系列/imgs/1_File_Settings.png)  
 &emsp;2.输入自己的github账号:  
-![2_配置Github](./../img/Pycharm之Git系列/imgs/2_配置Github.png)  
+![2_配置Github](https://github.com/olewaLdeisi/olewaLdeisi.github.io/blob/master/img/Pycharm之Git系列/imgs/2_配置Github.png)  
 &emsp;3.在同个目录下选择Git，填上自己安装的Git路径:  
 ![3_配置Git](./../img/Pycharm之Git系列/imgs/3_配置Git.png)  
 
