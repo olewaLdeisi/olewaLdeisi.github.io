@@ -40,3 +40,24 @@ description: "Thinking will not overcome fear but action will."
     {% endif %}
 </ul>
 {% endif %}
+
+<!-- Gitalk 评论 start  -->
+
+<!-- Link Gitalk 的支持文件  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+<div id="gitalk-container"></div>     <script type="text/javascript">
+    var gitalk = new Gitalk({
+
+    // gitalk的主要参数
+		clientID: `c763a9199d263ba5536c`,
+		clientSecret: `8c3bae065b3762c6fd8a9a26de004ec08aa7c5e1`,
+		repo: `olewaLdeisi.github.io`,
+		owner: 'olewaLdeisi',
+		admin: ['olewaLdeisi'],
+		id: 'window.location.pathname',
+
+    });
+    gitalk.render('gitalk-container');
+</script>
+<!-- Gitalk end -->
